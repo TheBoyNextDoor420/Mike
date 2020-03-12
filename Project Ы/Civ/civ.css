@@ -1,0 +1,170 @@
+body {
+text-align: center;
+background:  rgba(255, 255, 255, 0) url(image.png) no-repeat center;
+background-size: 100% 100%;
+}
+
+.all {
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+}
+
+.head {
+    margin: auto;
+    width: 1000px;
+
+    height: 50px;
+    margin-bottom: 10px;
+    
+
+}
+
+
+.gamescontainer {
+    height: 100%;
+    width: 88.4px;
+    float: left;
+    margin-right: 12.8px;
+    box-shadow: -0.4em 0.4em 5px rgba(122,122,122,0.5);
+
+}
+
+
+.games {
+    background: linear-gradient(135deg, rgba(255,255,255,1) 0%,rgba(243,243,243,1) 50%,rgba(237,237,237,1) 51%,rgba(255,255,255,1) 100%);
+    height: 100%;
+    width: 88.4px;
+
+
+    
+    
+
+
+}
+
+
+.gamesright {
+    margin-right: 0px;
+}
+
+
+.info {
+
+
+    width: 1000px;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 1px;
+
+    box-shadow: -0.4em 0.4em 5px rgba(122,122,122,0.5);
+    background: linear-gradient(135deg, rgba(255,255,255,1) 0%,rgba(220,220,220,1) 100%);
+    text-align: initial;
+
+
+}
+
+
+.text2 {
+    width: 100%;
+    height: 28px;
+    background: linear-gradient(rgba(0,0,0,0.1) 0%,rgba(0,0,0,0) 100%);
+    line-height: 175%;
+    color: darkblue;
+}
+
+.text {
+    text-align: center;
+    line-height: 300%;
+    width: unset;
+    height: unset;
+    color: black;
+    color: darkblue;
+    
+    
+}
+
+
+.footer {
+
+    width: 980px;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    height: 100px;
+
+    line-height: 300%;
+    box-shadow: -0.4em 0.4em 5px rgba(122,122,122,0.5);
+    background: linear-gradient(135deg, rgba(255,255,255,1) 0%,rgba(230,230,230,1) 100%);
+}
+
+
+
+.text3 {
+    margin: 10px;
+}
+
+.historyimage1 {
+    background-size: 100% 100%;    
+    height: 200px;
+    width: 200px;
+    margin-right: 10px;
+    border: 2px solid rgba(180,180,180,1);
+    margin-right: 10px;
+    float: left;
+}
+
+.historyimage2 {
+    background-size: 100% 100%;    
+    height: 200px;
+    width: 300px;
+    border: 2px solid rgba(180,180,180,1);
+    text-align: center;
+    margin-right: 10px;
+    float: left;
+}
+
+.historyimage3 {
+    background-size: 100% 100%;    
+    height: 150px;
+    width: 300px;
+    border: 2px solid rgba(180,180,180,1);
+    margin-right: 10px;
+    float: left;
+}
+
+
+.historyimage1:hover {
+    height: 400px;
+    width: 400px;
+}
+
+.historyimage2:hover {
+    height: 400px;
+    width: 600px;
+}
+
+.historyimage3:hover {
+    height: 300px;
+    width: 600px;
+}
+
+.topbutton {
+    width:100px;
+    border:2px solid #ccc;
+    background:linear-gradient(135deg, rgba(255,255,255,1) 0%,rgba(230,230,230,1) 100%);
+    text-align:center;
+    padding:10px;
+    position:fixed;
+    bottom:50px;
+    right:50px;
+    cursor:pointer;
+    color:#333;
+    font-family:verdana;
+    font-size:12px;
+    border-radius: 5px;
+    }
+
+.topbutton:hover {
+    background:rgba(230,230,230,1);
+}
